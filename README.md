@@ -13,7 +13,7 @@ https://api.vizzie.org/mcp
 Streamable HTTP. The same calls are a REST API at `https://api.vizzie.org/v1`
 ([docs](https://www.vizzie.org/api/), [OpenAPI](https://api.vizzie.org/v1/openapi.json)).
 
-Vizzie is a web-based tool for visualising and mapping open data, connected to 280+
+Vizzie is a mapping and analytics studio connected to the world's open data: 280+
 government data portals across 40+ countries. This repository describes the server's
 interface; the server itself runs at the address above.
 
